@@ -3,11 +3,14 @@ body{
     
 
 }
+body::-webkit-scrollbar {
+    display: none;
+}
 html { font-size: 1.5rem; }
 .mainclass{
 
     margin-top: 200px;
-    height: 8450px;
+    height: 8250px;
     width: 65%;
     margin: 10% auto;   
     background-color: white;
