@@ -7,16 +7,26 @@ body::-webkit-scrollbar {
     display: none;
 }
 html { font-size: 1.5rem; }
+
+
 .mainclass{
 
     margin-top: 200px;
-    height: 8250px;
+    /*height: 16200px;*/
     width: 65%;
     margin: 10% auto;   
     background-color: white;
     border-radius: 15px;
     border: 1px solid white;
     box-shadow: 0 0 5px white;
+}
+.light_theme{
+height: auto;
+}
+.dark_theme{
+height: auto;
+
+
 }
 
 .formstyling{
@@ -66,7 +76,7 @@ html { font-size: 1.5rem; }
        
     
             margin-top: 200px;
-            height: 8550px;
+            /* height: 8550px; */
             width: 85%;
             margin: 10% auto;   
             background-color: white;
@@ -120,7 +130,7 @@ html { font-size: 1.5rem; }
    
 
         margin-top: 200px;
-        height: 6600px;
+        /* height: 6600px; */
         width: 85%;
         margin: 14% auto;   
         background-color: white;
@@ -172,7 +182,7 @@ html { font-size: 1.5rem; }
        
     
             margin-top: 200px;
-            height: 6900px;
+            /* height: 6900px; */
             width: 85%;
             margin: 18% auto;   
             background-color: white;
@@ -226,7 +236,7 @@ html { font-size: 1.5rem; }
            
         
                 margin-top: 200px;
-                height: 7138px;
+                /* height: 7138px; */
                 width: 85%;
                 margin: 20% auto;   
                 background-color: white;
@@ -244,7 +254,7 @@ html { font-size: 1.5rem; }
                
             
                     margin-top: 200px;
-                    height: 7200px;
+                    /* height: 7200px; */
                     width: 85%;
                     margin: 22% auto;   
                     background-color: white;
@@ -300,7 +310,7 @@ html { font-size: 1.5rem; }
            
         
                 margin-top: 200px;
-                height: 6900px;
+                /* height: 6900px; */
                 width: 85%;
                 margin: 27% auto;   
                 background-color: white;
@@ -353,7 +363,7 @@ html { font-size: 1.5rem; }
                
             
                     margin-top: 200px;
-                    height: 5400px;
+                    /* height: 5400px; */
                     width: 85%;
                     margin: 29% auto;   
                     background-color: white;
@@ -369,3 +379,5 @@ html { font-size: 1.5rem; }
     
     
         }
+
+
